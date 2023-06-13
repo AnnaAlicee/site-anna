@@ -1,0 +1,71 @@
+*{
+ padding: 0%;
+ margin: 0%;
+  
+}
+
+
+
+
+
+.texto{
+   margin-left: 850px;
+    color: rgb(19, 18, 18);
+    font-family: 'Nanum Gothic', sans-serif;
+padding-top: 50px;
+
+}
+
+img{
+    display: block;
+    margin-left: 10px;
+    margin-right: auto; 
+    width: 307px;
+    height: 400px;
+    float: left;
+}
+body{
+    background-color: rgb(228, 213, 182);
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+table {
+    margin-top: 0px;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+    float: right;
+}
+
+
+.table a:hover{
+    background-color: rgb(219, 206, 148);
+}
+
+
+ a{
+    text-decoration: none;
+    color: black;
+    padding-left: 11px;
+   
+   
+    font-family: 'Open Sans', sans-serif;
+ }
+
+
+
+hr{
+    border-width: 6px;
+    border-color: rgb(224, 193, 155);
+    margin-top: 85px;
+
+}
+.logo{
+    height: 170px;
+    width: 170px;
+    float: left;
+    margin: 0cap;
+    
+}
+  
+
